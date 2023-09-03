@@ -1,6 +1,6 @@
 # ubuntu-server-config
 
-Ubuntu Server Config is a set of scripts to help configure and manage Ubuntu Server 20.04
+Ubuntu Server Config is a set of scripts to help configure and manage Ubuntu Server
 
 1. Install PowerShell
 2. Change Hostname (Reboot Required)
